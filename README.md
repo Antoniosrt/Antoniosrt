@@ -6,8 +6,10 @@
 - Already technician **TI** - Graduated in **CTISM** / Santa Maria - RS, Brazil
 - That's is it.
 
+Talk to me:
 [Instagram](https://www.instagram.com/antoniotolio/)
-Email: antoniosrt.2014@gmail.com
+<br> & <br>
+antoniosrt.2014@gmail.com
 
 **Already Know**:
 - PHP
