@@ -7,25 +7,9 @@
 - That's is it.
 
 Talk to me:<br>
-[Instagram](https://www.instagram.com/antoniotolio/)
-<br> & <br>
-antoniosrt.2014@gmail.com
+[Instagram](https://www.instagram.com/antoniotolio/) & antoniosrt.2014@gmail.com
 
-**Already Know**:
-- PHP
-- JavaScript
-- HTML & CSS
-- Bootstrap
-- Git
-- SQL 
-- Symfony
-- API Rest
-
-**Learning**:
-- React
-- Node
-- MongoDB
-- C
+"You see but don't observe " - H
 
 
 <!--
