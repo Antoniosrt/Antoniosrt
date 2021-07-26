@@ -1,4 +1,30 @@
-### Hi there 👋
+# Antonio Aqui
+:computer: Brazilian Full Stack Developer - **Web**
+
+**About Me**:
+- Future Information Systems student
+- Already technician **TI** - Graduated in **CTISM** / Santa Maria - RS, Brazil
+- That's is it.
+
+[Instagram](https://www.instagram.com/antoniotolio/)
+Email: antoniosrt.2014@gmail.com
+
+**Already Know**:
+- PHP
+- JavaScript
+- HTML & CSS
+- Bootstrap
+- Git
+- SQL 
+- Symfony
+- API Rest
+
+**Learning**:
+- React
+- Node
+- MongoDB
+- C
+
 
 <!--
 **Antoniosrt/Antoniosrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
