@@ -1,8 +1,8 @@
-# Antonio Aqui
+# Antonio 
 :computer: Brazilian Full Stack Developer - **Web**
 
 **About Me**:
-- Future Information Systems student
+- UFSM - SI
 - Already technician **TI** - Graduated in **CTISM** / Santa Maria - RS, Brazil
 - That's is it.
 
@@ -10,7 +10,7 @@ Talk to me:<br>
 [Instagram](https://www.instagram.com/antoniotolio/) & antoniosrt.2014@gmail.com
 
 "You see but don't observe " - H
-
+    
 
 <!--
 **Antoniosrt/Antoniosrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
