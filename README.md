@@ -3,7 +3,7 @@
 
 **About Me**:
 - UFSM - SI
-- Already technician **TI** - Graduated in **CTISM** / Santa Maria - RS, Brazil
+- Already technician **TI** - Graduated on **CTISM** / Santa Maria - RS, Brazil
 - That's is it.
 
 Talk to me:<br>
